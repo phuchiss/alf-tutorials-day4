@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Move Sample Webscript</shortname>
+    <description>Move</description>
+    <url>/demo/move</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+    <family>Demo</family>
+</webscript>

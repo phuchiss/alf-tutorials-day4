@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Rename Sample Webscript</shortname>
+    <description>Renme</description>
+    <url>/demo/rename</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+    <family>Demo</family>
+</webscript>
